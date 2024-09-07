@@ -15,30 +15,30 @@ Despite stiff competition from traditional powerhouses like Liverpool, Chelsea, 
 
 | Column Name | Type | Description                                               |
 |-------------|------|-----------------------------------------------------------|
-| **team**    | str  | the refeering team                                        |
-| **date**    | date | the date of the game                                      |
-| **time**    | str  | the time of the game                                      |
-| **comp**    | str  | the competition of the game                               |
-| **round**   | str  | the round of the game                                     |
-| **day**     | str  | the day of the week of the game                           |
-| **venue**   | str  | the venue of the game (Home or Away)                      |
-| **result**  | str  | the result of the game for the refeering team (W, D, L)   |
-| **gf**      | int  | the goals for the refeering team                          |
-| **ga**      | int  | the goals for the opponent                                |
-| **opponent**| str  | the opponent of the refeering team                        |
-| **xg**      | float| the expected goals for the refeering team                 |
-| **xga**     | float| the expected goals for the opponent                       |
-| **poss**    | int  | the possession of the refeering team                      |
-| **captain** | str  | the captain of the refeering team                         |
-| **formation**| str | the formation of the refeering team                       |
-| **referee** | str  | the referee of the game                                   |
-| **sh**      | int  | the shots of the refeering team                           |
-| **sot**     | int  | the shots on target of the refeering team                 |
-| **dist**    | float| the average distance of the shots of the refeering team   |
-| **fk**      | int  | the free kicks of the refeering team                      |
-| **pk**      | int  | the penalty kicks of the refeering team                   |
-| **pkatt**   | int  | the penalty kicks attempted of the refeering team         |
-| **season**  | int  | the season year of the match                              |
+| **team**    | str  | The name of the team being analyzed                       |
+| **date**    | date | The date on which the match took place (YYYY-MM-DD format)                                     |
+| **time**    | str  | The start time of the match                                    |
+| **comp**    | str  | The competition in which the match was played                              |
+| **round**   | str  | the round of the competition                                     |
+| **day**     | str  | The day of the week when the match was held (e.g., Sun, Mon, Sat)                          |
+| **venue**   | str  | The venue of the match, indicating whether the team played at home or away                      |
+| **result**  | str  | The result of the match from the team's perspective: Win (W), Draw (D), or Loss (L)   |
+| **gf**      | int  | The number of goals scored by the team in the match                      |
+| **ga**      | int  | The number of goals conceded by the team (i.e., goals scored by the opponent)                               |
+| **opponent**| str  | The name of the opposing team in the match                        |
+| **xg**      | float| The expected goals (xG) for the team based on the quality of chances created                |
+| **xga**     | float| The expected goals against (xGA) based on the quality of chances the opponent created                       |
+| **poss**    | int  | The percentage of ball possession the team had during the match                      |
+| **captain** | str  | The name of the team's captain during the match                         |
+| **formation**| str | The formation used by the team during the match (e.g., 4-4-2, 3-5-2)                       |
+| **referee** | str  | The name of the referee who officiated the match                                   |
+| **sh**      | int  | The total number of shots taken by the team during the match                           |
+| **sot**     | int  | The total number of shots on target taken by the team during the match                 |
+| **dist**    | float| The average distance (in meters) from which the team's shots were taken   |
+| **fk**      | int  | The number of free kicks awarded to the team                      |
+| **pk**      | int  | The number of penalty kicks awarded to the team                   |
+| **pkatt**   | int  | The number of penalty kick attempts made by the team         |
+| **season**  | int  | The season year in which the match occurred (e.g., 2020, 2021)                              |
 
 
 
