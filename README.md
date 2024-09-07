@@ -10,6 +10,14 @@ Manchester City's dominance has not only been measured in terms of titles but al
 
 Despite stiff competition from traditional powerhouses like Liverpool, Chelsea, and Manchester United, City’s consistency and adaptability have allowed them to maintain their supremacy. Winning four Premier League titles in the last five seasons speaks volumes about their ongoing dominance, positioning Manchester City as one of the most successful English clubs in recent history.
 
+# How has Manchester City managed to maintain such dominance?
+
+What are the key metrics behind their success? Is it their ability to consistently outperform in terms of expected goals (xG) or their defensive stability as measured by expected goals against (xGA)? How does their ball possession percentage compare to their rivals, and does this control of the game play a decisive role in their ability to win matches?
+
+In my analysis, I will delve into these factors and explore the data from Manchester City's matches over the past five Premier League seasons. By analyzing various metrics such as goals scored (GF), goals conceded (GA), possession (POSS), and the number of shots on target (SOT), we can uncover the driving forces behind City's remarkable consistency. Additionally, I’ll investigate the influence of home and away games (VENUE) and how the team adapts their strategy in different environments.
+
+Through this deep dive into performance data, my MVP will provide insights into how Manchester City has risen to become one of the most dominant teams in the history of the Premier League.
+
 
 # Data Catalog
 
