@@ -1,5 +1,8 @@
 # DataScienceProject
 
+Esse trabalho será sobre a soberania do Manchester City na Premier League, utilizando dados das temporadas 2020 até a 2024.
+
+
 ## About Dataset
 
 Features description:
@@ -28,9 +31,8 @@ Features description:
 | **dist**    | float| the average distance of the shots of the home team|
 | **fk**      | int  | the free kicks of the home team                   |
 | **pk**      | int  | the penalty kicks of the home team                |
-| **pka**     | int  | the penalty kicks attempted of the home team      |
+| **pkatt**   | int  | the penalty kicks attempted of the home team      |
 | **season**  | int  | the season year of the match                      |
 | **team**    | str  | the home team                                     |
 
 
-Esse trabalho será sobre a soberania do Manchester City na Premier League, utilizando dados das temporadas 2020 até a 2024.
