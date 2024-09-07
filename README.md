@@ -11,9 +11,6 @@ Manchester City's dominance has not only been measured in terms of titles but al
 Despite stiff competition from traditional powerhouses like Liverpool, Chelsea, and Manchester United, City’s consistency and adaptability have allowed them to maintain their supremacy. Winning four Premier League titles in the last five seasons speaks volumes about their ongoing dominance, positioning Manchester City as one of the most successful English clubs in recent history.
 
 
-## About Dataset
-
-Features description:
 # Data Catalog
 
 | Column Name | Type | Description                                               |
