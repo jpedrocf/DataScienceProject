@@ -28,3 +28,6 @@ Features description:
 - **pka** : the penalty kicks attempted of the home team
 - **season** : the season year of the match
 - **team**: the home team
+
+
+Esse trabalho será sobre a soberania do Manchester City na Premier League, utilizando dados das temporadas 2020 até a 2024.
