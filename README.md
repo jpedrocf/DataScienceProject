@@ -10,10 +10,10 @@ Features description:
 
 | Column Name | Type | Description                                        |
 |-------------|------|----------------------------------------------------|
-| **date**    | int  | the date of the game                              |
+| **date**    | date | the date of the game                              |
 | **time**    | str  | the time of the game                              |
 | **comp**    | str  | the competition of the game                       |
-| **round**   | int  | the round of the game                             |
+| **round**   | str  | the round of the game                             |
 | **day**     | str  | the day of the week of the game                   |
 | **venue**   | str  | the venue of the game                             |
 | **result**  | str  | the result of the game                            |
@@ -22,7 +22,7 @@ Features description:
 | **opponent**| str  | the opponent of the home team                     |
 | **xg**      | float| the expected goals for the home team              |
 | **xga**     | float| the expected goals for the away team              |
-| **poss**    | float| the possession of the home team                   |
+| **poss**    | int  | the possession of the home team                   |
 | **captain** | str  | the captain of the home team                      |
 | **formation**| str | the formation of the home team                    |
 | **referee** | str  | the referee of the game                           |
