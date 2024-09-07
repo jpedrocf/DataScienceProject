@@ -17,7 +17,7 @@ Features description:
 | **round**   | str  | the round of the game                                     |
 | **day**     | str  | the day of the week of the game                           |
 | **venue**   | str  | the venue of the game (Home or Away)                      |
-| **result**  | str  | the result of the game                                    |
+| **result**  | str  | the result of the game for the refeering team (W, D, L)   |
 | **gf**      | int  | the goals for the refeering team                          |
 | **ga**      | int  | the goals for the opponent                                |
 | **opponent**| str  | the opponent of the refeering team                        |
