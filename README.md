@@ -3,8 +3,11 @@
 ## About Dataset
 
 Features description:
+# Data Catalog
 
-- **date** : the date of the game
+|Column Name|Type|Description|
+|--|--|--|
+- |**date**|int|the date of the game|
 - **time** : the time of the game
 - **comp** : the competition of the game
 - **round** : the round of the game
