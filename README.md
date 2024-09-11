@@ -1,4 +1,4 @@
-# Lung Cancer Dataset
+# About the Lung Cancer Dataset
 
 ## Introduction
 Lung cancer remains one of the most prevalent and deadly forms of cancer worldwide, posing significant challenges for early detection and effective treatment. This Lung Cancer Dataset, obtained from Kaggle, aims to contribute to the global effort in understanding and combating this disease.
