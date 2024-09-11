@@ -49,21 +49,5 @@ The dataset includes a diverse array of symptoms essential for comprehensive ana
    - **Data Updates**: Periodically update the dataset to ensure accuracy.
    - **Model Refinement**: Fine-tune the model based on feedback and additional data.
 
-## Data Fields
-- **GENDER**: Gender of the patient (`M` for Male, `F` for Female)
-- **AGE**: Age of the patient in years
-- **SMOKING**: Indicates smoking status (`1` for Yes, `0` for No)
-- **YELLOW_FINGERS**: Indicates yellow fingers (`1` for Yes, `0` for No)
-- **ANXIETY**: Indicates anxiety (`1` for Yes, `0` for No)
-- **PEER_PRESSURE**: Indicates peer pressure level (`0` for None, `1` for Low, `2` for High)
-- **CHRONIC_DISEASE**: Indicates chronic disease severity (`0` for None, `1` for Mild, `2` for Severe)
-- **FATIGUE**: Indicates fatigue (`1` for Yes, `0` for No)
-- **ALLERGY**: Indicates allergies (`0` for None, `1` for Mild, `2` for Severe)
-- **WHEEZING**: Indicates wheezing (`1` for Yes, `0` for No)
-- **ALCOHOL_CONSUMING**: Indicates alcohol consumption (`1` for Yes, `0` for No)
-- **COUGHING**: Indicates coughing (`1` for Yes, `0` for No)
-- **SHORTNESS_OF_BREATH**: Indicates shortness of breath (`1` for Yes, `0` for No)
-- **SWALLOWING_DIFFICULTY**: Indicates swallowing difficulty (`1` for Yes, `0` for No)
-- **CHEST_PAIN**: Indicates chest pain (`1` for Yes, `0` for No)
-- **LUNG_CANCER**: Indicates lung cancer diagnosis (`YES` for diagnosed, `NO` for not diagnosed)
+
 
