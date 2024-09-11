@@ -1,4 +1,4 @@
-<p align="center"><strong><span style="font-size:44px;">Data Catalog</span></strong></p>
+#Data Catalog
 
 
 | **Field**             | **Description**                              | **Values**                                                   |
