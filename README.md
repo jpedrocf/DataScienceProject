@@ -114,3 +114,22 @@ Format: JSON, CSV
 
 Conclusion:
 The Lung Cancer Dataset is a valuable resource for the global research community, offering high-quality, comprehensive data essential for advancing lung cancer research. By providing detailed patient demographics, medical history, clinical data, treatment information, and outcomes, this dataset empowers researchers to make significant strides in understanding and combating lung cancer. We encourage researchers to utilize this dataset to drive innovation and improve patient outcomes in the fight against this pervasive disease.
+
+
+Data Fields
+GENDER: Gender of the patient (M for Male, F for Female)
+AGE: Age of the patient in years
+SMOKING: Indicates smoking status (1 for Yes, 0 for No)
+YELLOW_FINGERS: Indicates presence of yellow fingers (1 for Yes, 0 for No)
+ANXIETY: Indicates presence of anxiety (1 for Yes, 0 for No)
+PEER_PRESSURE: Indicates level of peer pressure experienced by the patient (0 for None, 1 for Low, 2 for High)
+CHRONIC_DISEASE: Indicates presence of chronic diseases (0 for None, 1 for Mild, 2 for Severe)
+FATIGUE: Indicates presence of fatigue (1 for Yes, 0 for No)
+ALLERGY: Indicates presence of allergies (0 for None, 1 for Mild, 2 for Severe)
+WHEEZING: Indicates presence of wheezing (1 for Yes, 0 for No)
+ALCOHOL_CONSUMING: Indicates alcohol consumption status (1 for Yes, 0 for No)
+COUGHING: Indicates presence of coughing (1 for Yes, 0 for No)
+SHORTNESS_OF_BREATH: Indicates presence of shortness of breath (1 for Yes, 0 for No)
+SWALLOWING_DIFFICULTY: Indicates presence of swallowing difficulty (1 for Yes, 0 for No)
+CHEST_PAIN: Indicates presence of chest pain (1 for Yes, 0 for No)
+LUNG_CANCER: Indicates the diagnosis of lung cancer (YES for diagnosed, NO for not diagnosed)
