@@ -1,7 +1,7 @@
 # Lung Cancer Dataset
 
 ## Introduction
-Lung cancer remains one of the most prevalent and deadly forms of cancer worldwide, posing significant challenges for early detection and effective treatment. This comprehensive **Lung Cancer Dataset**, available on Kaggle, aims to contribute to the global effort in understanding and combating this disease.
+Lung cancer remains one of the most prevalent and deadly forms of cancer worldwide, posing significant challenges for early detection and effective treatment. This Lung Cancer Dataset, obtained from Kaggle, aims to contribute to the global effort in understanding and combating this disease.
 
 ## Scientific Overview
 This dataset is an invaluable asset in the realm of healthcare, providing a structured foundation for the development of cancer detection models. The data exemplifies a variety of symptoms associated with lung cancer. Each category within the dataset—`GENDER`, `AGE`, `SMOKING`, `YELLOW_FINGERS`, `ANXIETY`, `PEER_PRESSURE`, `CHRONIC_DISEASE`, `FATIGUE`, `ALLERGY`, `WHEEZING`, `ALCOHOL_CONSUMING`, `COUGHING`, `SHORTNESS_OF_BREATH`, `SWALLOWING_DIFFICULTY`, `CHEST_PAIN`—has been carefully curated to encompass a diverse range of symptoms, ensuring that resulting models are versatile and accurate.
