@@ -1,4 +1,5 @@
-## Data Catalog
+<p align="center"><strong><span style="font-size:44px;">Data Catalog</span></strong></p>
+
 
 | **Field**             | **Description**                              | **Values**                                                   |
 |-----------------------|----------------------------------------------|---------------------------------------------------------------|
