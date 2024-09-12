@@ -13,7 +13,7 @@ Note: In this dataset, YES=2 & NO=1
 | **CHRONIC_DISEASE**   | Chronic disease severity                    |  `2` for Yes, `1` for No                                     |
 | **FATIGUE**           | Fatigue                                      |  `2` for Yes, `1` for No                                    |
 | **ALLERGY**           | Allergies                                    | `2` for Yes, `1` for No                                     |
-| **WHEEZING**          | Wheezing                                     | `1` for Yes, `0` for No                                     |
+| **WHEEZING**          | Wheezing                                     |  `2` for Yes, `1` for No                                    |
 | **ALCOHOL_CONSUMING** | Alcohol consumption                          | `2` for Yes, `1` for No                                      |
 | **COUGHING**          | Coughing                                     | `2` for Yes, `1` for No                                      |
 | **SHORTNESS_OF_BREATH** | Shortness of breath                        |  `2` for Yes, `1` for No                                      |
