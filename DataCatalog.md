@@ -4,7 +4,7 @@
 | **Field**             | **Description**                              | **Values**                                                   |
 |-----------------------|----------------------------------------------|---------------------------------------------------------------|
 | **GENDER**            | Gender of the patient                       | `M` for Male, `F` for Female                                 |
-| **AGE**               | Age of the patient in years                 | Integer values                                               |
+| **AGE**               | Age of the patient in years                 | Integer values (30-80)                                       |
 | **SMOKING**           | Smoking status                              | `1` for Yes, `0` for No                                      |
 | **YELLOW_FINGERS**    | Yellow fingers                              | `1` for Yes, `0` for No                                      |
 | **ANXIETY**           | Anxiety                                     | `1` for Yes, `0` for No                                      |
